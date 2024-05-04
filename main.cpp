@@ -5,9 +5,9 @@
 using namespace std;
 
 int cantidad;
-/*void agregar_texto() {
+void agregar_texto() {
 
-    }*/
+    }
 
    void crear_archivos() {
     string nombre = "archivo" ;
@@ -20,10 +20,10 @@ int cantidad;
         for (int i=0;i<cantidad;i++) {
             ofstream file;
             file.open("C:/Users/jrodr/Desktop/par/"+nombre+to_string(i+1)+".txt");
-            /*agregar_texto();
+            agregar_texto();
             for (int j = 0; j < i+1; ++j) {
                 file << "linea "<<j+1 << endl;
-            }*/
+            }
                 file.close();
 
 
@@ -33,10 +33,10 @@ int cantidad;
         for (int i=0;i<cantidad;++i) {
             ofstream file;
             file.open("C:/Users/jrodr/Desktop/impar/"+nombre+to_string(i+1)+".txt");
-            /*agregar_texto();
-            /*for (int j = 0; j < i+1; ++j) {
+            agregar_texto();
+            for (int j = 0; j < i+1; ++j) {
                 file << "linea "<<j+1 << endl;
-            }*/
+            }
             file.close();
 
 
