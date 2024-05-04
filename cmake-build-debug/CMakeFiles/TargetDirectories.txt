@@ -1,0 +1,3 @@
+C:/Users/jrodr/CLionProjects/2024_Parcial2_Jose_Rodriguez/cmake-build-debug/CMakeFiles/2024_Parcial2_Jose_Rodriguez.dir
+C:/Users/jrodr/CLionProjects/2024_Parcial2_Jose_Rodriguez/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jrodr/CLionProjects/2024_Parcial2_Jose_Rodriguez/cmake-build-debug/CMakeFiles/rebuild_cache.dir
